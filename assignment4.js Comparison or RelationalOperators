@@ -1,0 +1,15 @@
+// Task 5: Comparison or Relational Operators
+
+// Creating variables
+let fFavNumb = 9; 
+let sFavNumb = 25; 
+
+// Performing comparisons
+console.log(fFavNumb > sFavNumb); // Greater than
+console.log(fFavNumb < sFavNumb); // Less than
+console.log(fFavNumb >= sFavNumb); // Greater than or equal
+console.log(fFavNumb <= sFavNumb); // Less than or equal
+console.log(fFavNumb === sFavNumb); // Strict equality
+console.log(fFavNumb == sFavNumb); // Loose equality 
+console.log(fFavNumb !== sFavNumb); // Strict inequality
+console.log(fFavNumb != sFavNumb); // Loose inequality
