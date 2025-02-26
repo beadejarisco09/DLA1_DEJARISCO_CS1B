@@ -1,0 +1,13 @@
+// Task 4 Boolean
+
+// Creating variables
+let isJsProgrammingLanguage = true;
+let isJsHard = false;
+let favNumb = 7; // Replace with your favorite number
+let favNumbUndefined = undefined;
+
+// Logging variables to the console
+console.log("isJsProgrammingLanguage:", isJsProgrammingLanguage);
+console.log("isJsHard:", isJsHard);
+console.log("favNumb:", favNumb);
+console.log("favNumbUndefined:", favNumbUndefined);
