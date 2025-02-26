@@ -1,0 +1,22 @@
+// Task 6: Strings
+
+// Creating variables
+let favActorfName = "Sam"; 
+let favActorlName = "Shoaf"; 
+
+// Concatenating first and last name
+let fullName = favActorfName + " " + favActorlName;
+
+// Storing the capitalized version of the full name
+let uppercase = fullName.toUpperCase();
+
+// Creating and updating the message
+let message = My favorite actor is ${uppercase}.;
+message += " His best show is Ang Mutya ng Section E";
+
+// Logging variables to the console
+console.log("favActorfName:", favActorfName);
+console.log("favActorlName:", favActorlName);
+console.log("fullName:", fullName);
+console.log("uppercase:", uppercase);
+console.log("message:", message);
