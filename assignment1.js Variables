@@ -1,4 +1,5 @@
-// Apologies, but I am unable to use VS Code because I couldn’t download Node.js on my laptop, and it does not run without it. Instead, I wrote my code directly on GitHub and used a JavaScript compiler app on my mobile device.
+// Apologies Sir, but I am unable to use VS Code because I couldn’t download Node.js on my mother laptop, and it does not run without it. Instead, I wrote my code directly on GitHub and used a JavaScript compiler app on my mobile device.
+
 // Task 3 Variables
 // Define variables
 let name = "Ma. Beatrix G. Dejarisco";
@@ -11,9 +12,3 @@ console.log("Name:", name);
 console.log("What I want to become:", whatDoYouWannaBecomeInYourLife);
 console.log("Gender:", gender);
 console.log("Twitter Handle:", twitterHandle);
-
-// Output
-Name: Ma. Beatrix G. Dejarisco
-What I want to become: programmer
-Gender: Female
-Twitter Handle: @beadejarisco
