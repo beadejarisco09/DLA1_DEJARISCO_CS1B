@@ -1,4 +1,5 @@
 // Apologies, but I am unable to use VS Code because I couldn’t download Node.js on my laptop, and it does not run without it. Instead, I wrote my code directly on GitHub and used a JavaScript compiler app on my mobile device.
+// Task 3 Variables
 // Define variables
 let name = "Ma. Beatrix G. Dejarisco";
 let whatDoYouWannaBecomeInYourLife = "programmer";
